@@ -12,7 +12,7 @@ Vagrant.configure(2) do |config|
 
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://atlas.hashicorp.com/search.
-  config.vm.box = "vagrant-freebsd-4.4-i386-minimal"
+  config.vm.box = "AlbertZheng/vagrant-freebsd-4.4-i386-minimal"
 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
