@@ -1,5 +1,5 @@
 # vagrant-freebsd-4.4-i386-minimal
-A custom, minimal VirtualBox vagrant box of FreeBSD 4.4 i386.
+A custom, minimal VirtualBox vagrant box of FreeBSD 4.4 i386, which is special custom for my another open source project [Z-Language](https://github.com/AlbertZheng/zlang-zvm). But you can also utilize it in your projects which need a FreeBSD 4.4 environment.
 
 For more, please refer to [official hosting site of this box](https://app.vagrantup.com/AlbertZheng/boxes/vagrant-freebsd-4.4-i386-minimal).
 
