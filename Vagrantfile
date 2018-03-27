@@ -28,7 +28,7 @@ Vagrant.configure(2) do |config|
   config.vm.network "forwarded_port", guest: 23, host: 2223, id: "telnet"
   
   config.ssh.insert_key = false
-  #config.ssh.shell = "csh -c"
+  config.ssh.shell = "sh"
 
   config.ssh.username = "root"
   #config.ssh.password = "vagrant"
